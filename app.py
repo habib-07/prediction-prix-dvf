@@ -273,4 +273,4 @@ def carte_prix(type_b):
     return fig
 
 if __name__ == "__main__":
-    app.run(debug=False, host="0.0.0.0", port=int(os.environ.get("PORT",8056)))
+    app.run(debug=False, host="0.0.0.0", port=int(os.environ.get("PORT",7860)))
