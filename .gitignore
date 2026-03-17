@@ -1,0 +1,7 @@
+*.csv.gz
+*.csv
+processed/
+plots/
+__pycache__/
+*.pyc
+.env
