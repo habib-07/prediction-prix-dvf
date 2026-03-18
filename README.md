@@ -2,6 +2,10 @@
 
 Dashboard ML de prediction des prix immobiliers en Ile-de-France (2024).
 
+## Lien de l'application
+
+L'application est déployée sur huggingface et consultable ici : 👉 [https://huggingface.co/spaces/KPHabib/dvf-idf]
+
 ## Stack
 - Python : pandas, scikit-learn, xgboost, dash, plotly
 - Donnees : DVF 2024 — data.gouv.fr (114 882 transactions)
